@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Qml/Activities/MainActivity.qml</file>
+        <file>Qml/Activities/EntryActivity.qml</file>
+        <file>Qml/Activities/AllNotesViewerActivity.qml</file>
+        <file>Qml/Activities/AddNoteActivity.qml</file>
+        <file>Qml/Activities/EditNoteActivity.qml</file>
+        <file>Qml/Activities/ViewNoteActivity.qml</file>
+        <file>Qml/Activities/CameraActivity.qml</file>
+        <file>Qml/Components/DhToolbar.qml</file>
+        <file>Qml/Components/SizeIndicator.qml</file>
+        <file>Qml/Global/Controller.qml</file>
+        <file>Qml/Global/qmldir</file>
+        <file>Qml/Components/DhSpacer.qml</file>
+        <file>Qml/Components/DhButton.qml</file>
+        <file>Qml/Components/DhTextEdit.qml</file>
+    </qresource>
+</RCC>
